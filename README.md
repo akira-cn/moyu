@@ -55,5 +55,7 @@
 | [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) | 游戏开发基础 | ⭐️⭐️⭐️⭐️ | 
 | [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground) | 被删的前端游乐场 | ⭐️⭐️⭐️⭐️ |
 | [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) | JavaScript the bad parts | ⭐️⭐️⭐️⭐️⭐️ |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 庞大的知识地图，怕了吗？ | ⭐️⭐️⭐️⭐️⭐️ |
+| [qappleh/Interview](https://github.com/qappleh/Interview) | 面试挂不挂得看心情 | ⭐️⭐️⭐️⭐️⭐️ | 
 
 
