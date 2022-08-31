@@ -49,4 +49,7 @@
 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | A project a day, keeps the girlfriend away. | ⭐️⭐️⭐️⭐️ | 
 | [xitu/courses](https://github.com/xitu/courses) | 还没完成的半成品，敬请期待 | ⭐️⭐️⭐️⭐️ | 
 | [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) | 游戏开发基础 | ⭐️⭐️⭐️⭐️ | 
+| [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground) | 被删的前端游乐场 | ⭐️⭐️⭐️⭐️ |
+| [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) | JavaScript the bad parts | ⭐️⭐️⭐️⭐️⭐️ |
+
 
