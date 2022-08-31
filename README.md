@@ -44,4 +44,5 @@
 | [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | React 30天学不会系列 | ⭐️⭐️⭐️⭐️ |
 | [geektutu/7days-golang](https://github.com/geektutu/7days-golang) | Golang 只要学7天，现在转行来得及吗？ | ⭐️⭐️⭐️⭐️ | 
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python 要学100天…… | ⭐️⭐️⭐️⭐️ | 
+| [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | JS 30天，买不了吃亏，买不了上当！| ⭐️⭐️⭐️⭐️ | 
 
