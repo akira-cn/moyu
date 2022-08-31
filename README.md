@@ -21,3 +21,4 @@
 | [emojicode/emojicode](https://github.com/emojicode/emojicode) | 🏁 🍇 <br/>&nbsp;&nbsp;&nbsp;&nbsp;😀 🔤Hello World!🔤❗️<br/>🍉 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍 |
 | [jezen/is-thirteen](https://github.com/jezen/is-thirteen) | 我就一个问题，为什么是13？ | ⭐️⭐️⭐️⭐️ | 👍 |
 | [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC) | 基于阿诺德施瓦辛格的单行代码的编程语言 | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
+| [busyloop/lolcat](https://github.com/busyloop/lolcat) | 同学，你的仙女棒…… | ⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
