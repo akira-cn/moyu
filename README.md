@@ -25,6 +25,7 @@
 | [busyloop/lolcat](https://github.com/busyloop/lolcat) | 同学，你的仙女棒…… | ⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 | [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) | 神级注释，你值得拥有~ | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 | [LiuRoy/huatian-funny](https://github.com/LiuRoy/huatian-funny) | 用决策树科学地分析自己的择偶观 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍 |
+| [holynova/gushi_namer](https://github.com/holynova/gushi_namer) | 用诗经, 楚辞, 唐诗,宋词起名字 | ⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 
 ## 小游戏
 
