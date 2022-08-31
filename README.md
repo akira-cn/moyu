@@ -13,3 +13,4 @@
 | [birl-language/birl-language.github.io](https://github.com/birl-language/birl-language.github.io) | 又一个编程语言，代码是好代码，就是写起来有点头晕…… | ⭐️⭐️⭐️⭐️⭐️ | 👍👍 |
 | [edankwan/penis.js](https://github.com/edankwan/penis.js/) | 不可描述的库，不可描述的用途…… | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | 除了爆粗口，好像没毛病 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍👍 |
+| [npm-all-packages#readme](https://github.com/dada513) | 有生之年，能安装完吧…… | ⭐️⭐️⭐️⭐️ | 👍 |
