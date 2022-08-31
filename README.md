@@ -26,6 +26,7 @@
 | [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) | 神级注释，你值得拥有~ | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 | [LiuRoy/huatian-funny](https://github.com/LiuRoy/huatian-funny) | 用决策树科学地分析自己的择偶观 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍 |
 | [holynova/gushi_namer](https://github.com/holynova/gushi_namer) | 用诗经, 楚辞, 唐诗,宋词起名字 | ⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
+| [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) | :chart_with_upwards_trend:  韭菜盒子——VSCode 里也可以看股票 & 基金实时数据 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 
 ## 小游戏
 
@@ -66,3 +67,4 @@
 | [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) | 前端技术清单 | ⭐️⭐️⭐️⭐️ |
 | [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) | 全栈之路 | ⭐️⭐️⭐️⭐️ |
 | [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) | JavaScript 30天挑战 | ⭐️⭐️⭐️⭐️ |
+| [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | DevOps 90天 | ⭐️⭐️⭐️⭐️ |
