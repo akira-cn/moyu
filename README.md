@@ -29,3 +29,9 @@
 | 仓库 | 介绍 | 摸鱼指数 |
 | --- | --- | --- |
 | [Uahh/ToastFish](https://github.com/Uahh/ToastFish) | 摸鱼背单词 | ⭐️⭐️⭐️⭐️ |
+
+## 卷起来
+
+| 仓库 | 介绍 | 卷吗？ |
+| --- | --- | --- |
+| [ReciHub/FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) | 讨厌的算法题  | ⭐️⭐️⭐️⭐️⭐️ |
