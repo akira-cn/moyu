@@ -16,6 +16,7 @@
 | [edankwan/penis.js](https://github.com/edankwan/penis.js/) | 不可描述的库，不可描述的用途…… | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | 除了爆粗口，好像没毛病 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍👍 |
 | [dada513/npm-all-packages](https://github.com/dada513/npm-all-packages) | 有生之年，能安装完吧…… | ⭐️⭐️⭐️⭐️ | 👍 |
+| [svenstaro/genact](https://github.com/svenstaro/genact) | 假装在干活…… | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍 |
 | [eeeeeeeeeeeeee……eeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) | 这尼玛什么玩意儿？ | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
 | [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) | 有没有掘金的？ | ⭐️⭐️⭐️⭐️ | 👍👍👍 |
 | [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) | 迅雷不及掩耳盗铃儿响叮当~ | ⭐️⭐️⭐️⭐️ | 👍👍👍 |
