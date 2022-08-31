@@ -4,5 +4,6 @@
 
 | 仓库 | 介绍 | 奇怪指数 |
 | --- | --- | --- |
-| [jesseduffield/OK](https://github.com/jesseduffield/OK) | 这是一个正儿八经的编程语言，我发誓！ | ⭐️⭐️⭐️ |
-| [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) | 顶级程序员教程 | ⭐️⭐️⭐️ |
+| [jesseduffield/OK](https://github.com/jesseduffield/OK) | 这是一个正儿八经的编程语言，我发誓！ | ⭐️⭐️⭐️⭐️⭐️ |
+| [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) | 顶级程序员教程 | ⭐️⭐️⭐️⭐️⭐️ |
+| [996icu/996.ICU](https://github.com/996icu/996.ICU) | 能不能不卷吖？| ⭐️⭐️⭐️⭐️⭐️ |
