@@ -7,3 +7,4 @@
 | [jesseduffield/OK](https://github.com/jesseduffield/OK) | 这是一个正儿八经的编程语言，我发誓！ | ⭐️⭐️⭐️⭐️⭐️ |
 | [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) | 顶级程序员教程 | ⭐️⭐️⭐️⭐️⭐️ |
 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | 能不能不卷吖？| ⭐️⭐️⭐️⭐️⭐️ |
+| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 不会做饭的设计师不是好程序员系列 | ⭐️⭐️⭐️⭐️⭐️ |
