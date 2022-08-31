@@ -61,8 +61,5 @@
 | [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) | 前端还卷得动吗？ | ⭐️⭐️⭐️⭐️ |
 | [dennis-jiang/Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges) | 前端知识进阶 | ⭐️⭐️⭐️⭐️ |
 | [xitu/gold-miner](https://github.com/xitu/gold-miner) | 掘金翻译计划，最懂读者和译者的翻译平台 | ⭐️⭐️⭐️ |
-
-
-
-
-
+| [lxchuan12/blog](https://github.com/lxchuan12/blog) | 学习源码整体架构系列 | ⭐️⭐️⭐️⭐️ |
+| [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) | 前端技术清单 | ⭐️⭐️⭐️⭐️ |
