@@ -40,6 +40,7 @@
 | [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) | galgame编辑器，青训营同学出品 | ⭐️⭐️⭐️⭐️ |
 | [ustbhuangyi/FunnyRabbit](https://github.com/ustbhuangyi/FunnyRabbit) | 新版兔子接月饼的小游戏，很好玩哟~ | ⭐️⭐️⭐️⭐️ |
 | [akira-cn/boxbox](https://github.com/akira-cn/boxbox) | 带AI的推箱子游戏 | ⭐️⭐️⭐️⭐️⭐️ |
+| [zhzhch335/sokoban](https://github.com/zhzhch335/sokoban) | ThreeJS的推箱子游戏 | ⭐️⭐️⭐⭐️ |
 
 ## 卷起来
 
