@@ -29,6 +29,7 @@
 | 仓库 | 介绍 | 摸鱼指数 |
 | --- | --- | --- |
 | [Uahh/ToastFish](https://github.com/Uahh/ToastFish) | 摸鱼背单词 | ⭐️⭐️⭐️⭐️ |
+| [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) | galgame编辑器，青训营同学出品 | ⭐️⭐️⭐️⭐️ |
 
 ## 卷起来
 
