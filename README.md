@@ -46,4 +46,5 @@
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python 要学100天…… | ⭐️⭐️⭐️⭐️ | 
 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | JS 30天，买不了吃亏，买不了上当！| ⭐️⭐️⭐️⭐️ | 
 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | A project a day, keeps the girlfriend away. | ⭐️⭐️⭐️⭐️ | 
+| [xitu/courses](https://github.com/xitu/courses) | 还没完成的半成品，敬请期待 | ⭐️⭐️⭐️⭐️ | 
 
