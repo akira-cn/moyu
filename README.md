@@ -10,3 +10,4 @@
 | [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) | 你要的和你不要的BQB都在这里 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍👍 |
 | [duo001/evil.js](https://github.com/duo001/evil.js) | 千万别得罪程序员啊 | ⭐️⭐️⭐️⭐️ | 👍 |
 | [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) | 真正的无代码，你做到了！ | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
+| [birl-language/birl-language.github.io](https://github.com/birl-language/birl-language.github.io) | 又一个编程语言，代码是好代码，就是写起来有点头晕…… | ⭐️⭐️⭐️⭐️⭐️ | 👍👍 |
