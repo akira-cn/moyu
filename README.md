@@ -57,5 +57,12 @@
 | [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) | JavaScript the bad parts | ⭐️⭐️⭐️⭐️⭐️ |
 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 庞大的知识地图，怕了吗？ | ⭐️⭐️⭐️⭐️⭐️ |
 | [qappleh/Interview](https://github.com/qappleh/Interview) | 面试挂不挂得看心情 | ⭐️⭐️⭐️⭐️⭐️ | 
+| [woai3c/Front-end-articles](https://github.com/woai3c/Front-end-articles) | 手把手系列好评 | ⭐️⭐️⭐️⭐️ |
+| [Chocolate1999/Front-end-learning-to-organize-notes](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes) | 前端还卷得动吗？ | ⭐️⭐️⭐️⭐️ |
+| [dennis-jiang/Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges) | 前端知识进阶 | ⭐️⭐️⭐️⭐️ |
+| [xitu/gold-miner](https://github.com/xitu/gold-miner) | 掘金翻译计划，最懂读者和译者的翻译平台 | ⭐️⭐️⭐️ |
+
+
+
 
 
