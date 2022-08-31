@@ -14,3 +14,4 @@
 | [edankwan/penis.js](https://github.com/edankwan/penis.js/) | 不可描述的库，不可描述的用途…… | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | 除了爆粗口，好像没毛病 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍👍 |
 | [npm-all-packages#readme](https://github.com/dada513) | 有生之年，能安装完吧…… | ⭐️⭐️⭐️⭐️ | 👍 |
+| [eeeeeeeeeeeeee……eeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) | 这尼玛什么玩意儿？ | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
