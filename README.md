@@ -64,3 +64,4 @@
 | [lxchuan12/blog](https://github.com/lxchuan12/blog) | 学习源码整体架构系列 | ⭐️⭐️⭐️⭐️ |
 | [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) | 前端技术清单 | ⭐️⭐️⭐️⭐️ |
 | [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) | 全栈之路 | ⭐️⭐️⭐️⭐️ |
+| [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) | JavaScript 30天挑战 | ⭐️⭐️⭐️⭐️ |
