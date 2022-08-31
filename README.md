@@ -24,6 +24,7 @@
 | [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC) | 基于阿诺德施瓦辛格的单行代码的编程语言 | ⭐️⭐️⭐️⭐️⭐️ | 👍 |
 | [busyloop/lolcat](https://github.com/busyloop/lolcat) | 同学，你的仙女棒…… | ⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 | [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) | 神级注释，你值得拥有~ | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
+| [LiuRoy/huatian-funny](https://github.com/LiuRoy/huatian-funny) | 用决策树科学地分析自己的择偶观 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍 |
 
 ## 小游戏
 
