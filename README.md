@@ -42,4 +42,6 @@
 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 写JS啥都得懂系列 | ⭐️⭐️⭐️⭐️ |
 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 面试不过找不到工作系列 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | React 30天学不会系列 | ⭐️⭐️⭐️⭐️ |
+| [geektutu/7days-golang](https://github.com/geektutu/7days-golang) | Golang 只要学7天，现在转行来得及吗？ | ⭐️⭐️⭐️⭐️ | 
+| [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python 要学100天…… | ⭐️⭐️⭐️⭐️ | 
 
