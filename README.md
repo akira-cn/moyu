@@ -36,3 +36,4 @@
 | --- | --- | --- |
 | [ReciHub/FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) | 讨厌的算法题  | ⭐️⭐️⭐️⭐️⭐️ |
 | [akira-cn/FE_You_dont_know](https://github.com/akira-cn/FE_You_dont_know) | 你知道我知道你不知道 | ⭐️⭐️⭐️⭐️ |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 轮子！轮子！ | ⭐️⭐️⭐️⭐️ |
