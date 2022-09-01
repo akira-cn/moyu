@@ -58,7 +58,7 @@
 | [yinxin630/fiora](https://github.com/yinxin630/fiora) | 写代码累了？偷偷上来聊个天撒~ | ⭐️⭐️⭐⭐️⭐️ | 
 | [gd4Ark/star-battle](https://github.com/gd4Ark/star-battle) | 星球大战 💥 | ⭐️⭐️⭐⭐️⭐️ | 
 | [muan/emoji-minesweeper](https://github.com/muan/emoji-minesweeper) | emoji 扫雷 😀 | ⭐️⭐️⭐⭐️⭐️ | 
-| [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) | 随机创建可爱的二次元头像 | ⭐️⭐️⭐⭐️ |
+| [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) | 随机创建可爱的二次元头像 | ⭐️⭐️⭐️⭐⭐️ |
 
 ## 卷起来
 
