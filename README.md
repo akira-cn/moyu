@@ -72,6 +72,7 @@
 | [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) | CSS实现的扫雷游戏 | ⭐️⭐⭐️⭐️ | 
 | [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | 人生重开模拟器 | ⭐️⭐️⭐⭐️⭐️ | 
 | [xitu/coding-life](https://github.com/xitu/coding-life) | 程序员搬砖模拟器 | ⭐️⭐️⭐⭐️⭐️ | 
+| [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) | 中文DOS游戏合辑 | ⭐️⭐️⭐⭐️⭐️ | 
 
 
 ## 卷起来
