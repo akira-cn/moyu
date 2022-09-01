@@ -34,6 +34,7 @@
 | [0xYootou/js2image](https://github.com/0xYootou/js2image) | 把JS压缩成🎄吧~ 至于为什么叫 js2image？谁知道呢~  | ⭐️⭐️⭐️⭐️ | 👍👍 |
 | [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) | 在网页中添加Live2D看板娘 | ⭐️⭐️ | 👍👍👍👍 |
 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 800多种语言的HelloWorld，槽点是为啥有那么多语言…… | ⭐️⭐️ | 👍👍👍👍 |
+| [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) | 自动生成一幅山水画 | ⭐️⭐️⭐️  | 👍👍👍 |
 
 ## 休闲娱乐
 
