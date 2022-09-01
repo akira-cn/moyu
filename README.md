@@ -43,6 +43,7 @@
 | [zhzhch335/sokoban](https://github.com/zhzhch335/sokoban) | ThreeJS的3D推箱子游戏 | ⭐️⭐️⭐⭐️ |
 | [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) | 挂机放置类小游戏，摸鱼神器 | ⭐️⭐️⭐⭐️⭐️ |
 | [pengfeiw/rubiks-cube](https://github.com/pengfeiw/rubiks-cube) | 在线转魔方 | ⭐️⭐️⭐⭐️⭐️ |
+| [magcius/noclip.website](https://github.com/magcius/noclip.website) | 3 D游戏场景博物馆 | ⭐️⭐️⭐⭐️⭐️ |
 
 ## 卷起来
 
