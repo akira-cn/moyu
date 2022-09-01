@@ -32,7 +32,7 @@
 | [holynova/gushi_namer](https://github.com/holynova/gushi_namer) | 用诗经, 楚辞, 唐诗,宋词起名字 | ⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 | [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) | :chart_with_upwards_trend:  韭菜盒子——VSCode 里也可以看股票 & 基金实时数据 | ⭐️⭐️⭐️ | 👍👍👍👍 |
 
-## 小游戏
+## 休闲娱乐
 
 | 仓库 | 介绍 | 摸鱼指数 |
 | --- | --- | --- |
@@ -45,6 +45,7 @@
 | [pengfeiw/rubiks-cube](https://github.com/pengfeiw/rubiks-cube) | 在线转魔方 | ⭐️⭐️⭐⭐️⭐️ |
 | [magcius/noclip.website](https://github.com/magcius/noclip.website) | 3D 游戏场景博物馆 | ⭐️⭐️⭐⭐️⭐️ |
 | [antfu/handle](https://github.com/antfu/handle) | 小时候玩的猜数字游戏的汉字版 | ⭐️⭐️⭐⭐️⭐️ | 
+| [pearmini/colorfu](https://github.com/pearmini/colorfu) | 自动生成壁纸 | ⭐️⭐️⭐⭐️⭐️ |  
 
 ## 卷起来
 
