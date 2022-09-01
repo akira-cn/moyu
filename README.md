@@ -48,6 +48,7 @@
 | [antfu/handle](https://github.com/antfu/handle) | 小时候玩的猜数字游戏的汉字版 | ⭐️⭐️⭐⭐️⭐️ | 
 | [pearmini/colorfu](https://github.com/pearmini/colorfu) | 自动生成壁纸 | ⭐️⭐️⭐⭐️ |  
 | [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) | 给自己捏个脸 | ⭐️⭐️⭐⭐️⭐️ |  
+| [nbarkhina/MarioHTML](https://github.com/nbarkhina/MarioHTML) | TypeScript 写的马里奥游戏 | ⭐️⭐️⭐⭐️⭐️ |  
 
 ## 卷起来
 
