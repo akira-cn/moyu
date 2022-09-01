@@ -55,6 +55,7 @@
 | [pchen66/panolens.js](https://github.com/pchen66/panolens.js) | 很牛逼的3D全景效果，适合摸鱼 | ⭐️⭐️⭐⭐️⭐️ |  
 | [zerosoul/breathe-relaxer](https://github.com/zerosoul/breathe-relaxer) | 在线呼吸调节器 | ⭐️⭐️⭐⭐️⭐️ | 
 | [dli/paint](https://github.com/dli/paint) | 在线油画 ~ 人人都是艺术家 | ⭐️⭐️⭐⭐️⭐️ | 
+| [yinxin630/fiora](https://github.com/yinxin630/fiora) | 写代码累了？偷偷上来聊个天撒~ | ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
