@@ -73,6 +73,7 @@
 | [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | 人生重开模拟器 | ⭐️⭐️⭐⭐️⭐️ | 
 | [xitu/coding-life](https://github.com/xitu/coding-life) | 程序员搬砖模拟器 | ⭐️⭐️⭐⭐️⭐️ | 
 | [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) | 中文DOS游戏合辑 | ⭐️⭐️⭐⭐️⭐️ | 
+| [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) | 打字游戏，边打字边背单词，还能帮助程序员记忆API | ⭐️⭐️⭐⭐️⭐️ | 
 
 
 ## 卷起来
