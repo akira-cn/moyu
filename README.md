@@ -36,6 +36,7 @@
 
 | 仓库 | 介绍 | 摸鱼指数 |
 | --- | --- | --- |
+| [https://github.com/521xueweihan/HelloGitHub]（https://hellogithub.com/）| 非常好的摸鱼利器，能刷一整天，强烈建议从官网访问 | ⭐️⭐️⭐⭐️⭐️ |
 | [Uahh/ToastFish](https://github.com/Uahh/ToastFish) | 摸鱼背单词 | ⭐️⭐️⭐️⭐️ |
 | [MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL) | galgame编辑器，青训营同学出品 | ⭐️⭐️⭐️⭐️ |
 | [ustbhuangyi/FunnyRabbit](https://github.com/ustbhuangyi/FunnyRabbit) | 新版兔子接月饼的小游戏，很好玩哟~ | ⭐️⭐️⭐️⭐️ |
