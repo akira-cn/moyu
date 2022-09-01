@@ -45,7 +45,8 @@
 | [pengfeiw/rubiks-cube](https://github.com/pengfeiw/rubiks-cube) | 在线转魔方 | ⭐️⭐️⭐⭐️⭐️ |
 | [magcius/noclip.website](https://github.com/magcius/noclip.website) | 3D 游戏场景博物馆 | ⭐️⭐️⭐⭐️⭐️ |
 | [antfu/handle](https://github.com/antfu/handle) | 小时候玩的猜数字游戏的汉字版 | ⭐️⭐️⭐⭐️⭐️ | 
-| [pearmini/colorfu](https://github.com/pearmini/colorfu) | 自动生成壁纸 | ⭐️⭐️⭐⭐️⭐️ |  
+| [pearmini/colorfu](https://github.com/pearmini/colorfu) | 自动生成壁纸 | ⭐️⭐️⭐⭐️ |  
+| [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) | 给自己捏个脸 | ⭐️⭐️⭐⭐️⭐️ |  
 
 ## 卷起来
 
