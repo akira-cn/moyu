@@ -67,6 +67,7 @@
 | [shinima/battle-city](https://github.com/shinima/battle-city) | 复刻了经典的90坦克 | ⭐️⭐️⭐⭐️⭐️ | 
 | [chvin/react-tetris](https://github.com/chvin/react-tetris) | 经典俄罗斯方块~儿时回忆！| ⭐️⭐️⭐⭐️⭐️ | 
 | [jakubfiala/atrament.js](https://github.com/jakubfiala/atrament.js) | 极简涂鸦 | ⭐️⭐⭐️⭐️ | 
+| [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) | 通过游戏来学习flexbox | ⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
