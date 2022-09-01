@@ -44,6 +44,7 @@
 | [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) | 挂机放置类小游戏，摸鱼神器 | ⭐️⭐️⭐⭐️⭐️ |
 | [pengfeiw/rubiks-cube](https://github.com/pengfeiw/rubiks-cube) | 在线转魔方 | ⭐️⭐️⭐⭐️⭐️ |
 | [magcius/noclip.website](https://github.com/magcius/noclip.website) | 3D 游戏场景博物馆 | ⭐️⭐️⭐⭐️⭐️ |
+| [antfu/handle](https://github.com/antfu/handle) | 小时候玩的猜数字游戏的汉字版 | ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
