@@ -62,7 +62,8 @@
 | [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) | 随机创建可爱的二次元头像 | ⭐️⭐️⭐️⭐⭐️ |
 | [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) | 200行代码的人脸识别，厉害吧！| ⭐️⭐️⭐⭐️ | 
 | [mumuy/pacman](https://github.com/mumuy/pacman) | 高还原度的吃豆人游戏，适合怀旧~ | ⭐️⭐️⭐⭐️⭐️ |  
-| [googlecreativelab/chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) | 有趣的音乐实验室 | ⭐️⭐️⭐⭐️⭐️ |  
+| [googlecreativelab/chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) | 有趣的音乐实验室 | ⭐️⭐️⭐⭐️⭐️ | 
+| [KelvinQiu802/battleship](https://github.com/KelvinQiu802/battleship) | 海战棋，青训营同学出品 | ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
