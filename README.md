@@ -53,6 +53,7 @@
 | [watilde/beeplay](https://github.com/watilde/beeplay) | 用JS写歌，简谱 | ⭐️⭐️⭐⭐️⭐️ |  
 | [KilledByAPixel/HueJumper2k](https://github.com/KilledByAPixel/HueJumper2k) | 仅2KB大小的JS赛车游戏 | ⭐️⭐️⭐⭐️⭐️ |  
 | [pchen66/panolens.js](https://github.com/pchen66/panolens.js) | 很牛逼的3D全景效果，适合摸鱼 | ⭐️⭐️⭐⭐️⭐️ |  
+| [zerosoul/breathe-relaxer](https://github.com/zerosoul/breathe-relaxer) | 在线呼吸调节器 | ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
