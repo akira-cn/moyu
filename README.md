@@ -51,6 +51,7 @@
 | [nbarkhina/MarioHTML](https://github.com/nbarkhina/MarioHTML) | TypeScript 写的马里奥游戏 | ⭐️⭐️⭐⭐️⭐️ |
 | [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) | 又一个头像生成工具 | ⭐️⭐️⭐⭐️ |
 | [watilde/beeplay](https://github.com/watilde/beeplay) | 用JS写歌，简谱 | ⭐️⭐️⭐⭐️⭐️ |  
+| [KilledByAPixel/HueJumper2k](https://github.com/KilledByAPixel/HueJumper2k) | 仅2KB大小的JS赛车游戏 | ⭐️⭐️⭐⭐️⭐️ |  
 
 ## 卷起来
 
