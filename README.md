@@ -74,3 +74,4 @@
 | [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) | 全栈之路 | ⭐️⭐️⭐️⭐️ |
 | [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) | JavaScript 30天挑战 | ⭐️⭐️⭐️⭐️ |
 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | DevOps 90天 | ⭐️⭐️⭐️⭐️ |
+| [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略 | ⭐️⭐️⭐️⭐️⭐️ | 
