@@ -112,3 +112,4 @@
 | [pomber/didact](https://github.com/pomber/didact) | 造轮子系列之 React 篇 | ⭐️⭐️⭐️⭐️ |
 | [chokcoco/iCSS](https://github.com/chokcoco/iCSS) | 非常厉害的 CSS 教程 | ⭐️⭐️⭐️⭐️ |
 | [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | 设计系统从入门到面试 | ⭐️⭐️⭐️⭐️⭐️ |
+| [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) | HTML 单页面挑战 | ⭐️⭐️⭐️⭐️⭐️ |
