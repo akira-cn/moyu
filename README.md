@@ -52,6 +52,7 @@
 | [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) | 又一个头像生成工具 | ⭐️⭐️⭐⭐️ |
 | [watilde/beeplay](https://github.com/watilde/beeplay) | 用JS写歌，简谱 | ⭐️⭐️⭐⭐️⭐️ |  
 | [KilledByAPixel/HueJumper2k](https://github.com/KilledByAPixel/HueJumper2k) | 仅2KB大小的JS赛车游戏 | ⭐️⭐️⭐⭐️⭐️ |  
+| [pchen66/panolens.js](https://github.com/pchen66/panolens.js) | 很牛逼的3D全景效果，适合摸鱼 | ⭐️⭐️⭐⭐️⭐️ |  
 
 ## 卷起来
 
