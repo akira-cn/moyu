@@ -60,6 +60,7 @@
 | [gd4Ark/star-battle](https://github.com/gd4Ark/star-battle) | 星球大战 💥 | ⭐️⭐️⭐⭐️⭐️ | 
 | [muan/emoji-minesweeper](https://github.com/muan/emoji-minesweeper) | emoji 扫雷 😀 | ⭐️⭐️⭐⭐️⭐️ | 
 | [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) | 随机创建可爱的二次元头像 | ⭐️⭐️⭐️⭐⭐️ |
+| [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) | 200行代码的人脸识别，厉害吧！| ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
