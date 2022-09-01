@@ -70,6 +70,9 @@
 | [jakubfiala/atrament.js](https://github.com/jakubfiala/atrament.js) | 极简涂鸦 | ⭐️⭐⭐️⭐️ | 
 | [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) | 通过游戏来学习flexbox | ⭐️⭐⭐️⭐️ | 
 | [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) | CSS实现的扫雷游戏 | ⭐️⭐⭐️⭐️ | 
+| [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) | 人生重开模拟器 | ⭐️⭐️⭐⭐️⭐️ | 
+| [xitu/coding-life](https://github.com/xitu/coding-life) | 程序员搬砖模拟器 | ⭐️⭐️⭐⭐️⭐️ | 
+
 
 ## 卷起来
 
