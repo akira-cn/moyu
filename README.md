@@ -41,6 +41,7 @@
 | [ustbhuangyi/FunnyRabbit](https://github.com/ustbhuangyi/FunnyRabbit) | 新版兔子接月饼的小游戏，很好玩哟~ | ⭐️⭐️⭐️⭐️ |
 | [akira-cn/boxbox](https://github.com/akira-cn/boxbox) | 带AI的推箱子游戏 | ⭐️⭐️⭐️⭐️⭐️ |
 | [zhzhch335/sokoban](https://github.com/zhzhch335/sokoban) | ThreeJS的3D推箱子游戏 | ⭐️⭐️⭐⭐️ |
+| [https://github.com/Couy69/vue-idle-game] | 挂机放置类小游戏，摸鱼神器 | ⭐️⭐️⭐⭐️⭐️ |
 
 ## 卷起来
 
