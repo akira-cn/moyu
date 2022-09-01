@@ -31,7 +31,7 @@
 | [LiuRoy/huatian-funny](https://github.com/LiuRoy/huatian-funny) | 用决策树科学地分析自己的择偶观 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍 |
 | [holynova/gushi_namer](https://github.com/holynova/gushi_namer) | 用诗经, 楚辞, 唐诗,宋词起名字 | ⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 | [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) | :chart_with_upwards_trend:  韭菜盒子——VSCode 里也可以看股票 & 基金实时数据 | ⭐️⭐️⭐️ | 👍👍👍👍 |
-| [0xYootou/js2image](https://github.com/0xYootou/js2image) | 把JS压缩成🎄吧~  | ⭐️⭐️⭐️⭐️ | 👍👍 |
+| [0xYootou/js2image](https://github.com/0xYootou/js2image) | 把JS压缩成🎄吧~ 至于为什么叫 js2image？谁知道呢~  | ⭐️⭐️⭐️⭐️ | 👍👍 |
 
 ## 休闲娱乐
 
