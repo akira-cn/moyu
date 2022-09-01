@@ -56,6 +56,7 @@
 | [zerosoul/breathe-relaxer](https://github.com/zerosoul/breathe-relaxer) | 在线呼吸调节器 | ⭐️⭐️⭐⭐️⭐️ | 
 | [dli/paint](https://github.com/dli/paint) | 在线油画 ~ 人人都是艺术家 | ⭐️⭐️⭐⭐️⭐️ | 
 | [yinxin630/fiora](https://github.com/yinxin630/fiora) | 写代码累了？偷偷上来聊个天撒~ | ⭐️⭐️⭐⭐️⭐️ | 
+| [gd4Ark/star-battle](https://github.com/gd4Ark/star-battle) | 星球大战 💥 | ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
