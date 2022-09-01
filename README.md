@@ -68,6 +68,7 @@
 | [chvin/react-tetris](https://github.com/chvin/react-tetris) | 经典俄罗斯方块~儿时回忆！| ⭐️⭐️⭐⭐️⭐️ | 
 | [jakubfiala/atrament.js](https://github.com/jakubfiala/atrament.js) | 极简涂鸦 | ⭐️⭐⭐️⭐️ | 
 | [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) | 通过游戏来学习flexbox | ⭐️⭐⭐️⭐️ | 
+| [propjockey/css-sweeper](https://github.com/propjockey/css-sweeper) | CSS实现的扫雷游戏 | ⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
