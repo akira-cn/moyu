@@ -57,6 +57,7 @@
 | [dli/paint](https://github.com/dli/paint) | 在线油画 ~ 人人都是艺术家 | ⭐️⭐️⭐⭐️⭐️ | 
 | [yinxin630/fiora](https://github.com/yinxin630/fiora) | 写代码累了？偷偷上来聊个天撒~ | ⭐️⭐️⭐⭐️⭐️ | 
 | [gd4Ark/star-battle](https://github.com/gd4Ark/star-battle) | 星球大战 💥 | ⭐️⭐️⭐⭐️⭐️ | 
+| [muan/emoji-minesweeper](https://github.com/muan/emoji-minesweeper) | emoji 扫雷 😀 | ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
