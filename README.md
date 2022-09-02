@@ -115,4 +115,4 @@
 | [chokcoco/iCSS](https://github.com/chokcoco/iCSS) | 非常厉害的 CSS 教程 | ⭐️⭐️⭐️⭐️ |
 | [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | 设计系统从入门到面试 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) | HTML 单页面挑战 | ⭐️⭐️⭐️⭐️⭐️ |
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Web 开发人员路线图（[繁体中文版](https://github.com/goodjack/developer-roadmap-chinese)） | ⭐️⭐️⭐️⭐️ |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Web 开发人员路线图👉🏻[繁体中文版](https://github.com/goodjack/developer-roadmap-chinese) 还卷得动吗？| ⭐️⭐️⭐️⭐️ |
