@@ -120,4 +120,5 @@
 | [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 中文独立博客列表，挺适合午后摸鱼的 | ⭐️⭐️⭐️⭐️ |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 各种语言的免费编程书 | ⭐️⭐️⭐️ |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 各种有用的东西，不过确实挺卷的 | ⭐️⭐️⭐️⭐️ |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | Web 初学者的24节课，微软出品 | ⭐️⭐️⭐️⭐️ |
 
