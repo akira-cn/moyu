@@ -118,3 +118,4 @@
 | [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge) | HTML 单页面挑战 | ⭐️⭐️⭐️⭐️⭐️ |
 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Web 开发人员路线图👉🏻[繁体中文版](https://github.com/goodjack/developer-roadmap-chinese) 还卷得动吗？| ⭐️⭐️⭐️⭐️ |
 | [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 中文独立博客列表，挺适合午后摸鱼的 | ⭐️⭐️⭐️⭐️ |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 各种语言的免费编程书 | ⭐️⭐️⭐️ |
