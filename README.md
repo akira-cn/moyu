@@ -129,3 +129,4 @@
 | [ossu/computer-science](https://github.com/ossu/computer-science) | 计算机科学免费自学教程 | ⭐️⭐️⭐️ |
 | [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) | 机器学习实战 | ⭐️⭐️⭐️⭐️ |
 | [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | 交互式TS新手指南 | ⭐️⭐️⭐️⭐️ |
+| [javascript-guidebook](https://github.com/tsejx/javascript-guidebook) | JS前端知识图谱 | ⭐️⭐️⭐️⭐️ |
