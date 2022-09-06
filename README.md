@@ -121,4 +121,5 @@
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 各种语言的免费编程书 | ⭐️⭐️⭐️ |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 各种有用的东西，不过确实挺卷的 | ⭐️⭐️⭐️⭐️ |
 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | Web 初学者的24节课，微软出品 | ⭐️⭐️⭐️⭐️ |
+| [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | 一图胜千言系列，好棒！|  ⭐️⭐️⭐️ |
 
