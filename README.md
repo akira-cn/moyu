@@ -124,3 +124,4 @@
 | [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | 一图胜千言系列，好棒！| ⭐️⭐️⭐️ |
 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 如何写好JS？看这个肯定大有收获 | ⭐️⭐️⭐️ |
 | [ossu/computer-science](https://github.com/ossu/computer-science) | 计算机科学免费自学教程 | ⭐️⭐️⭐️ |
+| [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) | 机器学习实战 | ⭐️⭐️⭐️⭐️ |
