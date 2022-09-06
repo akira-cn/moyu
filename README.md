@@ -78,6 +78,7 @@
 | [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) | 中文DOS游戏合辑 | ⭐️⭐️⭐⭐️⭐️ | 
 | [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) | 打字游戏，边打字边背单词，还能帮助程序员记忆API | ⭐️⭐️⭐⭐️⭐️ | 
 | [leereilly/games](https://github.com/leereilly/games) | 摸不着鱼了？来这里全都有！| ⭐️⭐️⭐⭐️⭐️ | 
+| [JNKKKK/pianochord.io](https://github.com/JNKKKK/pianochord.io) | 模拟钢琴演奏，具体我也搞不大懂，总之很专业就是了 | ⭐️⭐️⭐⭐️⭐️ | 
 
 
 ## 卷起来
