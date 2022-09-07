@@ -36,6 +36,7 @@
 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 800多种语言的HelloWorld，槽点是为啥有那么多语言…… | ⭐️⭐️ | 👍👍👍👍 |
 | [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) | 自动生成一幅山水画 | ⭐️⭐️⭐️  | 👍👍👍 |
 | [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) | 浙江大学课程攻略共享计划~ 好东西，我在校那会儿咋没有这个😭 （有了就不担心挂科了）| ⭐️⭐️ | 👍👍👍👍 |
+| [dtf0/wtfpl](https://github.com/dtf0/wtfpl) | WTFPL 一个简单粗暴的开源协议，我喜欢~ | ⭐️⭐️⭐️⭐️ | 👍👍 |
 
 ## 休闲娱乐
 
