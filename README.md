@@ -132,3 +132,4 @@
 | [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | 交互式TS新手指南 | ⭐️⭐️⭐️⭐️ |
 | [javascript-guidebook](https://github.com/tsejx/javascript-guidebook) | JS前端知识图谱 | ⭐️⭐️⭐️⭐️ |
 | [labuladong/fucking-algorith](https://github.com/labuladong/fucking-algorith) | 刷算法全靠套路，认准 labuladong 就够了！| ⭐️⭐️⭐️⭐️⭐️ |
+| [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | 前端面试复习笔记 | ⭐️⭐️⭐️⭐️⭐️ |
