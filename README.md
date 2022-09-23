@@ -38,6 +38,7 @@
 | [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) | 浙江大学课程攻略共享计划~ 好东西，我在校那会儿咋没有这个😭 （有了就不担心挂科了）| ⭐️⭐️ | 👍👍👍👍 |
 | [dtf0/wtfpl](https://github.com/dtf0/wtfpl) | WTFPL 一个简单粗暴的开源协议，我喜欢~ | ⭐️⭐️⭐️⭐️ | 👍👍 |
 | [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 中国程序员容易发音错误的单词 | ⭐️⭐️ | 👍👍👍👍 |
+| [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南，好东西！ | ⭐️⭐️⭐️ | 👍👍👍👍 |
 
 ## 休闲娱乐
 
