@@ -136,3 +136,4 @@
 | [labuladong/fucking-algorith](https://github.com/labuladong/fucking-algorith) | 刷算法全靠套路，认准 labuladong 就够了！| ⭐️⭐️⭐️⭐️⭐️ |
 | [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | 前端面试复习笔记 | ⭐️⭐️⭐️⭐️⭐️ |
 | [haizlin/fe-interview](https://github.com/haizlin/fe-interview) | 前端面试每日3+1 | ⭐️⭐️⭐️⭐️⭐️ |
+| [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) | 确认过眼神，老卷王了 | ⭐️⭐️⭐️⭐️⭐️ |
