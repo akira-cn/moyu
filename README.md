@@ -137,3 +137,4 @@
 | [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | 前端面试复习笔记 | ⭐️⭐️⭐️⭐️⭐️ |
 | [haizlin/fe-interview](https://github.com/haizlin/fe-interview) | 前端面试每日3+1 | ⭐️⭐️⭐️⭐️⭐️ |
 | [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) | 确认过眼神，老卷王了 | ⭐️⭐️⭐️⭐️⭐️ |
+| [jaywcjlove/reference](https://github.com/jaywcjlove/reference) | 开发知识速查表 | ⭐️⭐️⭐️⭐️ |
