@@ -138,3 +138,4 @@
 | [haizlin/fe-interview](https://github.com/haizlin/fe-interview) | 前端面试每日3+1 | ⭐️⭐️⭐️⭐️⭐️ |
 | [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) | 确认过眼神，老卷王了 | ⭐️⭐️⭐️⭐️⭐️ |
 | [jaywcjlove/reference](https://github.com/jaywcjlove/reference) | 开发知识速查表 | ⭐️⭐️⭐️⭐️ |
+| [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) | TypeScript 挑战 | ⭐️⭐️⭐️⭐️ |
