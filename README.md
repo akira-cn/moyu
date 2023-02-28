@@ -5,6 +5,7 @@
 | 仓库 | 介绍 | 奇怪指数 | 实用度 |
 | --- | --- | --- | --- |
 | [akira-cn/moyu](https://github.com/akira-cn/moyu) | 没错！就是本项目！|  ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
+| [akira-cn/a_tour_with_chatgpt](https://github.com/akira-cn/a_tour_with_chatgpt) | 一份由ChatGPT提供的旅游指南，如果你想去远一点的地方旅行，它就很有用！| ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
 | [jesseduffield/OK](https://github.com/jesseduffield/OK) | 这是一个正儿八经的编程语言，我发誓！ | ⭐️⭐️⭐️⭐️⭐️ | 👍👍 |
 | [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) | 顶级程序员教程 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍 |
 | [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 不会做饭的设计师不是好程序员系列 | ⭐️⭐️⭐️⭐️⭐️ | 👍👍👍👍 |
