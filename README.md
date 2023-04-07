@@ -85,6 +85,7 @@
 | [JNKKKK/pianochord.io](https://github.com/JNKKKK/pianochord.io) | 模拟钢琴演奏，具体我也搞不大懂，总之很专业就是了 | ⭐️⭐️⭐⭐️⭐️ | 
 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 最全中华古诗词数据库，古诗词爱好者的摸鱼宝库 | ⭐️⭐️⭐⭐️⭐️ | 
 | [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) | 羊了个羊纯前端实现版【鱼了个鱼】| ⭐️⭐️⭐⭐️⭐️ | 
+| [ratel-online/server](https://github.com/ratel-online/server) | 在命令行里玩斗地主，跑得快，麻将等棋牌| ⭐️⭐️⭐⭐️⭐️⭐️ | 
 
 ## 卷起来
 
