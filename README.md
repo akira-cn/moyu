@@ -86,6 +86,7 @@
 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 最全中华古诗词数据库，古诗词爱好者的摸鱼宝库 | ⭐️⭐️⭐⭐️⭐️ | 
 | [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) | 羊了个羊纯前端实现版【鱼了个鱼】| ⭐️⭐️⭐⭐️⭐️ | 
 | [ratel-online/server](https://github.com/ratel-online/server) | 在命令行里玩斗地主，跑得快，麻将等棋牌| ⭐️⭐️⭐⭐️⭐️⭐️ | 
+| [dsy4567/4399-on-vscode](https://github.com/dsy4567/4399-on-vscode) | 在 VSCode 上玩 4399 小游戏 | ⭐️⭐️⭐⭐️⭐️ | 
 
 ## 卷起来
 
