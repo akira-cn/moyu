@@ -86,6 +86,8 @@
 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 最全中华古诗词数据库，古诗词爱好者的摸鱼宝库 | ⭐️⭐️⭐⭐️⭐️ | 
 | [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) | 羊了个羊纯前端实现版【鱼了个鱼】| ⭐️⭐️⭐⭐️⭐️ | 
 | [ratel-online/server](https://github.com/ratel-online/server) | 在命令行里玩斗地主，跑得快，麻将等棋牌| ⭐️⭐️⭐⭐️⭐️⭐️ | 
+| [deepseek-chan-meme-pack](https://github.com/the-beating-light-of-the-nail/deepseek-chan-meme-pack) | [DeepSeek酱语录](https://ai-meme.cdqyfdbymn.me/) 的表情包仓库：128 张蓝色大肥鱼娘化梗图，模型回复太慢时刷两页回血 | ⭐️⭐️⭐️ |
+
 
 ## 卷起来
 
