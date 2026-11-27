@@ -86,6 +86,7 @@
 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 最全中华古诗词数据库，古诗词爱好者的摸鱼宝库 | ⭐️⭐️⭐⭐️⭐️ | 
 | [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) | 羊了个羊纯前端实现版【鱼了个鱼】| ⭐️⭐️⭐⭐️⭐️ | 
 | [ratel-online/server](https://github.com/ratel-online/server) | 在命令行里玩斗地主，跑得快，麻将等棋牌| ⭐️⭐️⭐⭐️⭐️⭐️ | 
+| [James-826/ChameleonPiP](https://github.com/James-826/ChameleonPiP) | 无边框桌面融合画中画小工具，把视频融进代码与表格底色，支持刘海控制、鼠标穿透与背后有人自动隐藏 | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 卷起来
 
